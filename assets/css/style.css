@@ -72,3 +72,12 @@ button:hover {
 #quiz {
     text-align: center;
 }
+footer {
+    padding: 30px;
+    clear: both;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 5px;
+}
