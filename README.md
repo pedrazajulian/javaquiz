@@ -11,7 +11,7 @@
 
 <hr>
 <h2>
-<a href="https://github.com/pedrazajulian/javaquiz.git">Test your Javascript Knowledge HERE!!!</a>
+<a href="https://pedrazajulian.github.io/javaquiz/">Test your Javascript Knowledge HERE!!!</a>
 </h2>
 
 <hr>
